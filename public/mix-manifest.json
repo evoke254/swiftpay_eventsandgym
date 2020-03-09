@@ -1,0 +1,16 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/kahaki.css": "/css/kahaki.css",
+    "/css/animate.css": "/css/animate.css",
+    "/css/style.min.css": "/css/style.min.css",
+    "/css/style-responsive.min.css": "/css/style-responsive.min.css",
+    "/css/blog/style.min.css": "/css/blog/style.min.css",
+    "/css/blog/style-responsive.min.css": "/css/blog/style-responsive.min.css",
+    "/css/theme.css": "/css/theme.css",
+    "/css/tempus.css": "/css/tempus.css",
+    "/js/kahaki/stepper.js": "/js/kahaki/stepper.js",
+    "/js/kahaki/botman.js": "/js/kahaki/botman.js",
+    "/js/kahaki/lightgallery-all.min.js": "/js/kahaki/lightgallery-all.min.js",
+    "/js/kahaki/pace.js": "/js/kahaki/pace.js"
+}

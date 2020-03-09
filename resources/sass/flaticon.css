@@ -1,0 +1,114 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 27/01/2020 08:41
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-sport:before { content: "\f100"; }
+.flaticon-mountain:before { content: "\f101"; }
+.flaticon-adventurer:before { content: "\f102"; }
+.flaticon-man-in-hike:before { content: "\f103"; }
+.flaticon-hiking-person-silhouette-with-a-stick:before { content: "\f104"; }
+.flaticon-helmet:before { content: "\f105"; }
+.flaticon-cyclist:before { content: "\f106"; }
+.flaticon-hybrid:before { content: "\f107"; }
+.flaticon-cycling:before { content: "\f108"; }
+.flaticon-bike:before { content: "\f109"; }
+.flaticon-bike-1:before { content: "\f10a"; }
+.flaticon-man-cycling:before { content: "\f10b"; }
+.flaticon-stretching-exercises:before { content: "\f10c"; }
+.flaticon-woman:before { content: "\f10d"; }
+.flaticon-weightlifting:before { content: "\f10e"; }
+.flaticon-gym:before { content: "\f10f"; }
+.flaticon-healthy-lifestyle-logo:before { content: "\f110"; }
+.flaticon-barbell:before { content: "\f111"; }
+.flaticon-dumbbell:before { content: "\f112"; }
+.flaticon-gym-1:before { content: "\f113"; }
+.flaticon-dumbbell-1:before { content: "\f114"; }
+.flaticon-skipping-rope:before { content: "\f115"; }
+.flaticon-man:before { content: "\f116"; }
+.flaticon-kettlebell:before { content: "\f117"; }
+.flaticon-kettlebell-1:before { content: "\f118"; }
+.flaticon-pull-up-bar:before { content: "\f119"; }
+.flaticon-yoga:before { content: "\f11a"; }
+.flaticon-meditation:before { content: "\f11b"; }
+.flaticon-meditation-1:before { content: "\f11c"; }
+.flaticon-buddhist-yoga-pose:before { content: "\f11d"; }
+.flaticon-yoga-posture:before { content: "\f11e"; }
+.flaticon-meditation-2:before { content: "\f11f"; }
+.flaticon-swimming-figure:before { content: "\f120"; }
+.flaticon-swim:before { content: "\f121"; }
+.flaticon-bar:before { content: "\f122"; }
+.flaticon-upper-chest-training:before { content: "\f123"; }
+.flaticon-exercise:before { content: "\f124"; }
+.flaticon-gym-3:before { content: "\f125"; }
+.flaticon-gym-4:before { content: "\f126"; }
+.flaticon-gym-5:before { content: "\f127"; }
+.flaticon-gym-6:before { content: "\f128"; }
+.flaticon-gym-7:before { content: "\f129"; }
+.flaticon-gym-8:before { content: "\f12a"; }
+.flaticon-gym-9:before { content: "\f12b"; }
+.flaticon-gym-10:before { content: "\f12c"; }
+.flaticon-gym-11:before { content: "\f12d"; }
+.flaticon-gym-12:before { content: "\f12e"; }
+.flaticon-gym-13:before { content: "\f12f"; }
+.flaticon-gym-14:before { content: "\f130"; }
+.flaticon-strong:before { content: "\f131"; }
+.flaticon-gym-15:before { content: "\f132"; }
+.flaticon-gym-16:before { content: "\f133"; }
+.flaticon-gym-17:before { content: "\f134"; }
+.flaticon-gym-18:before { content: "\f135"; }
+.flaticon-gym-19:before { content: "\f136"; }
+.flaticon-gym-20:before { content: "\f137"; }
+.flaticon-gym-21:before { content: "\f138"; }
+.flaticon-gym-22:before { content: "\f139"; }
+.flaticon-gym-23:before { content: "\f13a"; }
+.flaticon-strong-1:before { content: "\f13b"; }
+.flaticon-gym-24:before { content: "\f13c"; }
+.flaticon-gym-25:before { content: "\f13d"; }
+.flaticon-gymnasium:before { content: "\f13e"; }
+.flaticon-gym-26:before { content: "\f13f"; }
+.flaticon-gym-27:before { content: "\f140"; }
+.flaticon-gym-28:before { content: "\f141"; }
+.flaticon-gym-29:before { content: "\f142"; }
+.flaticon-gym-30:before { content: "\f143"; }
+.flaticon-gym-31:before { content: "\f144"; }
+.flaticon-gym-32:before { content: "\f145"; }
+.flaticon-fit:before { content: "\f146"; }
+.flaticon-gym-33:before { content: "\f147"; }
+.flaticon-gym-34:before { content: "\f148"; }
+.flaticon-triathlon:before { content: "\f149"; }
+.flaticon-triathlon-silhouettes-in-a-triangle:before { content: "\f14a"; }
+.flaticon-individual-triathlon:before { content: "\f14b"; }
+.flaticon-running:before { content: "\f14c"; }
+.flaticon-jogging:before { content: "\f14d"; }
+.flaticon-jogging-1:before { content: "\f14e"; }
+.flaticon-running-man:before { content: "\f14f"; }
+.flaticon-zumba:before { content: "\f150"; }
+.flaticon-zumba-1:before { content: "\f151"; }

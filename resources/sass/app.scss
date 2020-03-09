@@ -1,0 +1,27 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Spinnaker');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+//npm installed
+//$ionicons-font-path: "~ionicons/dist/fonts";
+@import '~ionicons/dist/scss/ionicons.scss';
+
+@import '~@jkryszto/mdb-for-laravel/scss/mdb';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~dropzone/dist/dropzone.css';
+
+@import '~lightgallery/dist/css/lightgallery.css';
+@import '~lightgallery/dist/css/lg-transitions.css';
+@import '~lightgallery/dist/css/lg-fb-comment-box.css';
+
+
+@import 'kahaki';
+@import 'materialize-stepper';
+@import 'material-icons';

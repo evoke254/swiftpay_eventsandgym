@@ -1,0 +1,204 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 27/01/2020 08:41
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-sport:before { content: "\f100"; }
+.flaticon-mountain:before { content: "\f101"; }
+.flaticon-adventurer:before { content: "\f102"; }
+.flaticon-man-in-hike:before { content: "\f103"; }
+.flaticon-hiking-person-silhouette-with-a-stick:before { content: "\f104"; }
+.flaticon-helmet:before { content: "\f105"; }
+.flaticon-cyclist:before { content: "\f106"; }
+.flaticon-hybrid:before { content: "\f107"; }
+.flaticon-cycling:before { content: "\f108"; }
+.flaticon-bike:before { content: "\f109"; }
+.flaticon-bike-1:before { content: "\f10a"; }
+.flaticon-man-cycling:before { content: "\f10b"; }
+.flaticon-stretching-exercises:before { content: "\f10c"; }
+.flaticon-woman:before { content: "\f10d"; }
+.flaticon-weightlifting:before { content: "\f10e"; }
+.flaticon-gym:before { content: "\f10f"; }
+.flaticon-healthy-lifestyle-logo:before { content: "\f110"; }
+.flaticon-barbell:before { content: "\f111"; }
+.flaticon-dumbbell:before { content: "\f112"; }
+.flaticon-gym-1:before { content: "\f113"; }
+.flaticon-dumbbell-1:before { content: "\f114"; }
+.flaticon-skipping-rope:before { content: "\f115"; }
+.flaticon-man:before { content: "\f116"; }
+.flaticon-kettlebell:before { content: "\f117"; }
+.flaticon-kettlebell-1:before { content: "\f118"; }
+.flaticon-pull-up-bar:before { content: "\f119"; }
+.flaticon-yoga:before { content: "\f11a"; }
+.flaticon-meditation:before { content: "\f11b"; }
+.flaticon-meditation-1:before { content: "\f11c"; }
+.flaticon-buddhist-yoga-pose:before { content: "\f11d"; }
+.flaticon-yoga-posture:before { content: "\f11e"; }
+.flaticon-meditation-2:before { content: "\f11f"; }
+.flaticon-swimming-figure:before { content: "\f120"; }
+.flaticon-swim:before { content: "\f121"; }
+.flaticon-bar:before { content: "\f122"; }
+.flaticon-upper-chest-training:before { content: "\f123"; }
+.flaticon-exercise:before { content: "\f124"; }
+.flaticon-gym-3:before { content: "\f125"; }
+.flaticon-gym-4:before { content: "\f126"; }
+.flaticon-gym-5:before { content: "\f127"; }
+.flaticon-gym-6:before { content: "\f128"; }
+.flaticon-gym-7:before { content: "\f129"; }
+.flaticon-gym-8:before { content: "\f12a"; }
+.flaticon-gym-9:before { content: "\f12b"; }
+.flaticon-gym-10:before { content: "\f12c"; }
+.flaticon-gym-11:before { content: "\f12d"; }
+.flaticon-gym-12:before { content: "\f12e"; }
+.flaticon-gym-13:before { content: "\f12f"; }
+.flaticon-gym-14:before { content: "\f130"; }
+.flaticon-strong:before { content: "\f131"; }
+.flaticon-gym-15:before { content: "\f132"; }
+.flaticon-gym-16:before { content: "\f133"; }
+.flaticon-gym-17:before { content: "\f134"; }
+.flaticon-gym-18:before { content: "\f135"; }
+.flaticon-gym-19:before { content: "\f136"; }
+.flaticon-gym-20:before { content: "\f137"; }
+.flaticon-gym-21:before { content: "\f138"; }
+.flaticon-gym-22:before { content: "\f139"; }
+.flaticon-gym-23:before { content: "\f13a"; }
+.flaticon-strong-1:before { content: "\f13b"; }
+.flaticon-gym-24:before { content: "\f13c"; }
+.flaticon-gym-25:before { content: "\f13d"; }
+.flaticon-gymnasium:before { content: "\f13e"; }
+.flaticon-gym-26:before { content: "\f13f"; }
+.flaticon-gym-27:before { content: "\f140"; }
+.flaticon-gym-28:before { content: "\f141"; }
+.flaticon-gym-29:before { content: "\f142"; }
+.flaticon-gym-30:before { content: "\f143"; }
+.flaticon-gym-31:before { content: "\f144"; }
+.flaticon-gym-32:before { content: "\f145"; }
+.flaticon-fit:before { content: "\f146"; }
+.flaticon-gym-33:before { content: "\f147"; }
+.flaticon-gym-34:before { content: "\f148"; }
+.flaticon-triathlon:before { content: "\f149"; }
+.flaticon-triathlon-silhouettes-in-a-triangle:before { content: "\f14a"; }
+.flaticon-individual-triathlon:before { content: "\f14b"; }
+.flaticon-running:before { content: "\f14c"; }
+.flaticon-jogging:before { content: "\f14d"; }
+.flaticon-jogging-1:before { content: "\f14e"; }
+.flaticon-running-man:before { content: "\f14f"; }
+.flaticon-zumba:before { content: "\f150"; }
+.flaticon-zumba-1:before { content: "\f151"; }
+    
+    $font-Flaticon-sport: "\f100";
+    $font-Flaticon-mountain: "\f101";
+    $font-Flaticon-adventurer: "\f102";
+    $font-Flaticon-man-in-hike: "\f103";
+    $font-Flaticon-hiking-person-silhouette-with-a-stick: "\f104";
+    $font-Flaticon-helmet: "\f105";
+    $font-Flaticon-cyclist: "\f106";
+    $font-Flaticon-hybrid: "\f107";
+    $font-Flaticon-cycling: "\f108";
+    $font-Flaticon-bike: "\f109";
+    $font-Flaticon-bike-1: "\f10a";
+    $font-Flaticon-man-cycling: "\f10b";
+    $font-Flaticon-stretching-exercises: "\f10c";
+    $font-Flaticon-woman: "\f10d";
+    $font-Flaticon-weightlifting: "\f10e";
+    $font-Flaticon-gym: "\f10f";
+    $font-Flaticon-healthy-lifestyle-logo: "\f110";
+    $font-Flaticon-barbell: "\f111";
+    $font-Flaticon-dumbbell: "\f112";
+    $font-Flaticon-gym-1: "\f113";
+    $font-Flaticon-dumbbell-1: "\f114";
+    $font-Flaticon-skipping-rope: "\f115";
+    $font-Flaticon-man: "\f116";
+    $font-Flaticon-kettlebell: "\f117";
+    $font-Flaticon-kettlebell-1: "\f118";
+    $font-Flaticon-pull-up-bar: "\f119";
+    $font-Flaticon-yoga: "\f11a";
+    $font-Flaticon-meditation: "\f11b";
+    $font-Flaticon-meditation-1: "\f11c";
+    $font-Flaticon-buddhist-yoga-pose: "\f11d";
+    $font-Flaticon-yoga-posture: "\f11e";
+    $font-Flaticon-meditation-2: "\f11f";
+    $font-Flaticon-swimming-figure: "\f120";
+    $font-Flaticon-swim: "\f121";
+    $font-Flaticon-bar: "\f122";
+    $font-Flaticon-upper-chest-training: "\f123";
+    $font-Flaticon-exercise: "\f124";
+    $font-Flaticon-gym-3: "\f125";
+    $font-Flaticon-gym-4: "\f126";
+    $font-Flaticon-gym-5: "\f127";
+    $font-Flaticon-gym-6: "\f128";
+    $font-Flaticon-gym-7: "\f129";
+    $font-Flaticon-gym-8: "\f12a";
+    $font-Flaticon-gym-9: "\f12b";
+    $font-Flaticon-gym-10: "\f12c";
+    $font-Flaticon-gym-11: "\f12d";
+    $font-Flaticon-gym-12: "\f12e";
+    $font-Flaticon-gym-13: "\f12f";
+    $font-Flaticon-gym-14: "\f130";
+    $font-Flaticon-strong: "\f131";
+    $font-Flaticon-gym-15: "\f132";
+    $font-Flaticon-gym-16: "\f133";
+    $font-Flaticon-gym-17: "\f134";
+    $font-Flaticon-gym-18: "\f135";
+    $font-Flaticon-gym-19: "\f136";
+    $font-Flaticon-gym-20: "\f137";
+    $font-Flaticon-gym-21: "\f138";
+    $font-Flaticon-gym-22: "\f139";
+    $font-Flaticon-gym-23: "\f13a";
+    $font-Flaticon-strong-1: "\f13b";
+    $font-Flaticon-gym-24: "\f13c";
+    $font-Flaticon-gym-25: "\f13d";
+    $font-Flaticon-gymnasium: "\f13e";
+    $font-Flaticon-gym-26: "\f13f";
+    $font-Flaticon-gym-27: "\f140";
+    $font-Flaticon-gym-28: "\f141";
+    $font-Flaticon-gym-29: "\f142";
+    $font-Flaticon-gym-30: "\f143";
+    $font-Flaticon-gym-31: "\f144";
+    $font-Flaticon-gym-32: "\f145";
+    $font-Flaticon-fit: "\f146";
+    $font-Flaticon-gym-33: "\f147";
+    $font-Flaticon-gym-34: "\f148";
+    $font-Flaticon-triathlon: "\f149";
+    $font-Flaticon-triathlon-silhouettes-in-a-triangle: "\f14a";
+    $font-Flaticon-individual-triathlon: "\f14b";
+    $font-Flaticon-running: "\f14c";
+    $font-Flaticon-jogging: "\f14d";
+    $font-Flaticon-jogging-1: "\f14e";
+    $font-Flaticon-running-man: "\f14f";
+    $font-Flaticon-zumba: "\f150";
+    $font-Flaticon-zumba-1: "\f151";
